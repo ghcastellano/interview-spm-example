@@ -1,6 +1,6 @@
-# Northstar — Senior Program Manager interview case
+# Northstar — Avon-context Senior Program Manager interview case
 
-A password-protected, fictional business-transformation dashboard for a Senior Program Manager interview. Eight views cover executive visibility, accountability, roadmap, prioritization, legacy cutover, asset integration, SOPs, training and governance.
+A password-protected business-transformation dashboard with public Avon business context and fictional delivery data for a Senior Program Manager interview. Eight views cover executive visibility, accountability, roadmap, prioritization, legacy cutover, asset integration, SOPs, training and governance.
 
 ## Access
 
@@ -26,9 +26,9 @@ The Vercel project is connected to GitHub; pushes to `main` deploy production. `
 
 ## Scenario and presentation
 
-All business names, people, numbers and outcomes are illustrative. The fixed snapshot is September 29, 2026. The operation expands from 8 to 11 locations with 3,000 new managed assets. There are 11 initiatives across six workstreams; 6 active, 2 complete and 3 planned. 2,902 assets are mapped and 92 of 120 operators certified. Cutover remains NO-GO: only 2 of 5 mandatory gates are passed.
+Avon’s public services and the Hollywood/Saticoy branch names provide business context. All project gaps, assignments, budgets, staffing, counts and outcomes are fictional. The fixed scenario snapshot is September 29, 2026. The sample scope contains 1,200 Hollywood pilot records, 1,000 Saticoy pilot records and 800 hypothetical incoming portfolio records, not verified Avon fleet sizes. The incoming portfolio type, geography and scale require discovery. There are 11 initiatives across six workstreams; 6 active, 2 complete and 3 planned. 2,902 of 3,000 records are mapped and 92 of 120 learners certified. Cutover remains NO-GO: only 2 of 5 mandatory gates pass. See [Avon context and role mapping](AVON-CONTEXT.md) for sources and assumptions.
 
-Start with the **Single transformation dashboard**, inspect an at-risk initiative in its eight-field register, explain the evidence gates under **Legacy cutover**, compare locations under **Asset integration**, and close with the recommendation in the **Governance & decisions** log. The built-in presentation guide provides a ten-minute walkthrough.
+Start with the **Single transformation dashboard**, inspect an at-risk initiative in its eight-field register, explain the evidence gates under **Legacy cutover**, compare rollout cohorts under **Asset integration**, and close with the recommendation in the **Governance & decisions** log. The password page explains the proposed transformation approach and mock-data boundary. The intended implementation would connect the client’s management tools, such as Jira, Oracle work-management solutions or other systems, subject to discovery and access; no integration is active in this demo.
 
 Decision approvals are local simulations. They never change release evidence. Reset demo decisions before an interview. Sample SOPs are included; screenshot packs and video demonstrations are described curriculum deliverables, not media supplied by this demo.
 

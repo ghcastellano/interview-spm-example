@@ -28,7 +28,7 @@ The Vercel project is connected to GitHub; pushes to `main` deploy production. `
 
 All business names, people, numbers and outcomes are illustrative. The fixed snapshot is September 29, 2026. The operation expands from 8 to 11 locations with 3,000 new managed assets. There are 11 initiatives across six workstreams; 6 active, 2 complete and 3 planned. 2,902 assets are mapped and 92 of 120 operators certified. Cutover remains NO-GO: only 2 of 5 mandatory gates are passed.
 
-Start with **Executive overview**, inspect an at-risk initiative in the **Transformation register**, explain the evidence gates under **Legacy cutover**, compare locations under **Asset integration**, and close with the recommendation in the **Governance & decisions** log. The built-in presentation guide provides a ten-minute walkthrough.
+Start with the **Single transformation dashboard**, inspect an at-risk initiative in its eight-field register, explain the evidence gates under **Legacy cutover**, compare locations under **Asset integration**, and close with the recommendation in the **Governance & decisions** log. The built-in presentation guide provides a ten-minute walkthrough.
 
 Decision approvals are local simulations. They never change release evidence. Reset demo decisions before an interview. Sample SOPs are included; screenshot packs and video demonstrations are described curriculum deliverables, not media supplied by this demo.
 

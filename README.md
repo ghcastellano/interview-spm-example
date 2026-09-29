@@ -6,7 +6,7 @@ A password-protected business-transformation dashboard with public Avon business
 
 The welcome page asks only for a shared password. No username, email, account or external identity provider is required. The password is checked on the server. JavaScript, CSS and fixture data require the same signed session as the dashboard. Sessions expire after eight hours; **Lock access** clears the browser session. Rotating either server secret invalidates previously issued sessions.
 
-`ACCESS_PASSWORD` (at least 16 characters) and `SESSION_SECRET` (at least 32 characters) must be configured in Vercel for production and preview. Never prefix these values with `VITE_`, place them in client code or commit them. Missing configuration fails closed.
+`ACCESS_PASSWORD` (at least 6 characters) and `SESSION_SECRET` (at least 32 characters) must be configured in Vercel for production and preview. Never prefix these values with `VITE_`, place them in client code or commit them. Missing configuration fails closed.
 
 ## Local use
 

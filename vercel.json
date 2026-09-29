@@ -10,10 +10,10 @@
       "maxDuration": 10
     }
   },
-  "rewrites": [
+  "routes": [
     {
-      "source": "/:path*",
-      "destination": "/api/gateway?path=:path*"
+      "src": "/(.*)",
+      "dest": "/api/gateway.js?path=$1"
     }
   ]
 }
